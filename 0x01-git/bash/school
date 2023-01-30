@@ -1,2 +1,3 @@
 #!/bin/bash
 echo"School"
+-e#!/bin/bash\necho "School" 
